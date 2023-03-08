@@ -2,7 +2,7 @@
 
 An open source interface for [Coinbidexswap](http://coinbidex.website:5000/#/swap) -- a protocol for decentralized exchange of xDai tokens.
 
-# Local Developmenthttps://pandaswap.xyz
+# Local Development
 The following assumes the use of ```node@>=10```.
 
 # Install Dependencies
